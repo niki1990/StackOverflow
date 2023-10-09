@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverflowProject", "Sta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverflowProject.Repositories", "StackOverflow.Repositories\StackOverflowProject.Repositories.csproj", "{429CCD0C-66F5-4BC3-B496-255D311051F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverFlowProject.DomainModel", "StackOverFlowProject.DomainModel\StackOverFlowProject.DomainModel.csproj", "{4BA29A62-6C46-450A-A018-CAD77B9C7A65}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverFlowProject.DomainModels", "StackOverFlowProject.DomainModel\StackOverFlowProject.DomainModels.csproj", "{4BA29A62-6C46-450A-A018-CAD77B9C7A65}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverFlowProject.ServiceModel", "StackOverFlowProject.ServiceModel\StackOverFlowProject.ServiceModel.csproj", "{FA7C86F4-9633-40F4-B10D-9BAA72E6BBBB}"
 EndProject
